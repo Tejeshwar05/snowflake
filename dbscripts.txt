@@ -1,0 +1,2 @@
+create schema first;
+create table first(name varchar(50));
