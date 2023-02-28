@@ -1,2 +1,8 @@
-use schema schemachange;
-create or replace table schemachange.snow (name varchar(50));
+CREATE or replace SCHEMA DEMO;
+CREATE or replace TABLE HELLO_WORLD
+(
+   FIRST_NAME VARCHAR
+  ,LAST_NAME VARCHAR
+  ,city varchar
+  ,state varchar
+);
