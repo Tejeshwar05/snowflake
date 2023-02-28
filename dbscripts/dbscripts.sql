@@ -1,2 +1,2 @@
 use schema schemachange;
-create table snow(name varchar(50));
+create or replace table schemachange.snow (name varchar(50));
