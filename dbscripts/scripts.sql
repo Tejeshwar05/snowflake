@@ -1,1 +1,1 @@
-CREATE or replace schema test_1
+CREATE schema test_1;
